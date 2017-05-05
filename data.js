@@ -7,7 +7,7 @@ module.exports = {
         width: 100,
         height: 100,
         alt: 'World',
-        src: '/dist/images/world.png'
+        src: '/images/world.png'
       },
       meta: {
         createdAt: '2016-12-26',
@@ -23,7 +23,7 @@ module.exports = {
         width: 100,
         height: 100,
         alt: 'Earth',
-        src: '/dist/images/earth.png'
+        src: '/images/earth.png'
       },
       meta: {
         createdAt: '2016-12-25',
@@ -39,7 +39,7 @@ module.exports = {
         width: 100,
         height: 100,
         alt: 'Mars',
-        src: '/dist/images/mars.png'
+        src: '/images/mars.png'
       },
       meta: {
         createdAt: '2016-12-24',
